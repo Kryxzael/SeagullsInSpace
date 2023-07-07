@@ -2100,6 +2100,10 @@ PrefabInstance:
       value: -4
       objectReference: {fileID: 0}
     - target: {fileID: 8414151394314909274, guid: 1db28b2904f3c574a8c2425bc2c284c6, type: 3}
+      propertyPath: TumbleTime
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 8414151394314909274, guid: 1db28b2904f3c574a8c2425bc2c284c6, type: 3}
       propertyPath: Acceleration
       value: 0.5
       objectReference: {fileID: 0}
@@ -2114,6 +2118,10 @@ PrefabInstance:
     - target: {fileID: 8414151394314909274, guid: 1db28b2904f3c574a8c2425bc2c284c6, type: 3}
       propertyPath: RotationCorrectionStrengthMin
       value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 8414151394314909274, guid: 1db28b2904f3c574a8c2425bc2c284c6, type: 3}
+      propertyPath: RotationCorrectionStrengthTumble
+      value: 500
       objectReference: {fileID: 0}
     - target: {fileID: 8446061177657942362, guid: 1db28b2904f3c574a8c2425bc2c284c6, type: 3}
       propertyPath: m_Sprite
